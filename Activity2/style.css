@@ -1,0 +1,40 @@
+.task1 > div{
+    width: 100px;
+    display: inline-block;
+}
+.task2{
+    display: block;
+    margin: 0 auto;
+}
+.column-container{
+    display: block;
+}
+.column{
+    display: inline-block;
+    width: 200px;
+}
+.divtask4 > div{
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+    padding: 0;
+    float: left;
+}
+.text{
+    width: 300px;
+}
+.floating-item{
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+    float: left;
+}
+.flex-container{
+    display: flex;
+}
+.flex-item{
+    width: 200px;
+    height: 150px;
+    margin-right: 10px;
+    padding: 0;
+}

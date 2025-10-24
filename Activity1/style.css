@@ -1,0 +1,31 @@
+.divtask1{
+    padding: 20px;
+}
+.divtask2{
+    margin: 10px;
+    padding: 10px;
+}
+.divtask3 > div{
+    width: 100px;
+    height: 100px;
+}
+.divtask4{
+    box-sizing: border-box;
+    border: 10px;
+    padding: 10px;
+}
+.divtask5 > p{
+    margin: 20px;
+}
+.centered-box1{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    padding: 0px;
+}
+.centered-box2{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    padding: 40px;
+}

@@ -1,0 +1,50 @@
+.task1 > p{
+    font-size: 10px;
+}
+
+.task2 > p{
+    font-weight: bold;
+}
+
+.t3p1{
+    color: blue;
+}
+.t3p2{
+    color: red;
+}
+.t3p3{
+    color: orange;
+}
+.task4 > p{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+.task5 > h1{
+    font-size: 28px;
+    font-weight: bold;
+}
+.task5 > h2{
+    font-size: 24px;
+    font-weight: normal;
+}
+.task5 > h3{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.task6 > h1{
+    text-align: center;
+    color: blue;
+}
+.task6 > h2{
+    text-align: right;
+    color: orange;
+}
+.task6 > h3{
+    text-align: center;
+    color: blue;
+}
+.task6 > p{
+    text-align: justify;
+    color: red;
+}
